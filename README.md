@@ -14,7 +14,7 @@ Site institucional da Barbearia RA, desenvolvido com HTML, CSS e JavaScript.
 
 ## 🔗 Acesse o site
 
-> [Acesse aqui para visualizar o projeto online 👉](https://lincolnneres.github.io/Barbearia---RA/)
+> [👉 Acesse aqui para visualizar o projeto online ](https://lincolnneres.github.io/Barbearia---RA/)
 
 ## 🛠️ Tecnologias
 
